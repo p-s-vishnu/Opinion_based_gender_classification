@@ -13,7 +13,7 @@ Classifying gender based on personal preferences.
 - Evaluation
 - Deployment
 
-> Check out the notebook from [here]().
+> Check out the notebook from [here](https://github.com/p-s-vishnu/Opinion_based_gender_classification/blob/master/kernel.ipynb).
 
 ### Contributing
   If you have something interesting to share or if there is an error in code feel free to send a pull request.
